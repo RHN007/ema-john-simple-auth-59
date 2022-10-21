@@ -10,7 +10,11 @@
 */
 
 /*
-    1. 
+    1. create userContext (Auth Context) : userContext ==> components name 
+    userContext provides AuthContext ; 
+    2. Create AuthContext 
+    3. set authContext.Provider
+    4. Make sure you set the children 
 
 
 */

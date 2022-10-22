@@ -21,3 +21,19 @@
 
 
 */
+
+/**
+ * firebase Hosting : 
+  One time for each computer 
+ * 1. npm install -g firebase-tools
+ * 2. firebase login
+ Each time for separate projects 
+ 1. firebase init 
+ Make Sure : public directory (should be build 
+    single page applicaton : Y )
+
+    For Every Deploy : 
+    1. use npm run build 
+    2. firebase deploy
+ */
+
